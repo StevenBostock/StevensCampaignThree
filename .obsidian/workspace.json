@@ -1,0 +1,300 @@
+{
+  "main": {
+    "id": "b386ee51d0250474",
+    "type": "split",
+    "children": [
+      {
+        "id": "7fe65a5202c82174",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "25f8eae4d431e2f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. World/Geography/The Flanaess/Central Flanaess/Furyondy/Regions/Fairwain Province/Chendl.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chendl"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e1dfe797a1376091",
+    "type": "split",
+    "children": [
+      {
+        "id": "b64a36f7600c56e0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a0de071bf9436c7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "23ffa05450000f07",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6c0ad2eda4e84588",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 383.5
+  },
+  "right": {
+    "id": "4beca39e3882edea",
+    "type": "split",
+    "children": [
+      {
+        "id": "f0ff70472a0884ad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d651c36db7ce8f49",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1. World/Geography/The Flanaess/Central Flanaess/Furyondy/Regions/Fairwain Province/Chendl.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Chendl"
+            }
+          },
+          {
+            "id": "f314985464ded808",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1. World/Geography/The Flanaess/Central Flanaess/Furyondy/Regions/Fairwain Province/Chendl.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Chendl"
+            }
+          },
+          {
+            "id": "53a3e0d8435c7748",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a349402313b4da11",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "e9d1d2bea295ab44",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1. World/Geography/The Flanaess/Central Flanaess/Furyondy/Regions/Fairwain Province/Chendl.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Chendl"
+            }
+          },
+          {
+            "id": "3181032a3d03f03f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "1fccc58aa89253b6",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_d97ae81bd98b",
+                "ephemeral": {
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 1,
+                    "month": 0,
+                    "year": 591
+                  },
+                  "displayDayNumber": false,
+                  "displaySeasonColors": true,
+                  "interpolateColors": true,
+                  "displayMoons": true,
+                  "displayWeather": true
+                },
+                "id": "ID_eb196a897b98"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          },
+          {
+            "id": "95daaf12da3c44af",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_d97ae81bd98b",
+                "ephemeral": {
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 1,
+                    "month": 0,
+                    "year": 591
+                  },
+                  "displayDayNumber": false,
+                  "displaySeasonColors": true,
+                  "interpolateColors": true,
+                  "displayMoons": true,
+                  "displayWeather": true
+                },
+                "id": "ID_2afbb9787a58"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          },
+          {
+            "id": "18d2b4f879edf2c6",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_d97ae81bd98b",
+                "ephemeral": {
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 1,
+                    "month": 0,
+                    "year": 591
+                  },
+                  "displayDayNumber": false,
+                  "displaySeasonColors": true,
+                  "interpolateColors": true,
+                  "displayMoons": true,
+                  "displayWeather": true
+                },
+                "id": "ID_8b1aba7b991a"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          }
+        ],
+        "currentTab": 8
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "calendarium:Open Calendarium": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "8a0de071bf9436c7",
+  "lastOpenFiles": [
+    "1. World/Faith and Religion",
+    "1. World/People and Groups",
+    "1. World/Geography/The Flanaess/Central Flanaess/Furyondy/Regions/Viscounty of the March",
+    "1. World/Geography/The Flanaess/Central Flanaess/Furyondy/Regions/The Gold County",
+    "1. World/Geography/The Flanaess/Central Flanaess/Furyondy/Regions/Duchy of the Reach",
+    "1. World/Geography/The Flanaess/Central Flanaess/Furyondy/Regions/County of Crystalreach",
+    "1. World/Geography/The Flanaess/Central Flanaess/Furyondy/Regions/Barony of Willip",
+    "1. World/Geography/The Flanaess/Central Flanaess/Furyondy/Regions/Barony of Littleberg",
+    "1. World/Geography/The Flanaess/Central Flanaess/Furyondy/Regions/Barony of Kalinstren",
+    "1. World/Geography/The Flanaess/Central Flanaess/Furyondy/Regions/Fairwain Province/Fairwain Province.md",
+    "1. World/Geography/The Flanaess/Central Flanaess/Furyondy/Regions/Fairwain Province/Chendl.md",
+    "1. World/Geography/The Flanaess/Central Flanaess/Furyondy/The Kingdom of Furyondy.md",
+    "1. World/Geography/The Flanaess/Central Flanaess/Furyondy/Regions/Fairwain Province",
+    "1. World/Geography/The Flanaess/Central Flanaess/Furyondy/Regions",
+    "99. Assets/MapOfFuryondy.png",
+    "Home.md",
+    "0. DM Screen/DM Screen.md",
+    "Untitled.md"
+  ]
+}
