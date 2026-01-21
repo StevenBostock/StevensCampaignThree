@@ -13,7 +13,7 @@ Furyondy is one of the oldest “Old Ferrond” realms and presents itself as th
 - **Proper name:** Kingdom of Furyondy  
 - **Ruler:** **King Belvor IV** (no current heir)  
 - **Government:** Feudal monarchy limited by a **Noble Council**  
-- **Capital:** **Chendl**  
+- **Capital:** [[Chendl]]
 - **Alignment:** **Lawful Good** (with NG/LN strains)  
 - **Allies:** Veluna, Shield Lands, Highfolk, Ulek States, Verbobonc, Dyvers  
 - **Enemies:** Empire of Iuz, Scarlet Brotherhood, Horned Society, Ket (distrusted), Rhennee (distrusted)  
