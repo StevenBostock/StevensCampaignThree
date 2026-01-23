@@ -10,10 +10,10 @@ tags: [Faction, Furyondy, Chendl, Magic, RoyalCourt, CampaignThree]
 The **Chamber of Four** are the King’s **personal wizard-advisors** in [[Chendl]]. They advise on—and execute—matters of **arcane defense** for the capital and, by extension, the realm.
 
 ## Known Members (By Elemental Focus)
-- **Karzalin** — fire specialist; the most feared in open conflict.
-- **Gorn Gydresol** — air specialist; newest appointment; ambitious and eager to prove value.
-- **Pisenten** — water specialist; practical, patient, and relentless in analysis.
-- **Dramaynen** — earth specialist; a sage devoted to **Ulaa**; favors permanence, warding, and stability.
+- **[[Karzalin]]** — fire specialist; the most feared in open conflict.
+- **[[Gorn Gydresol]]** — air specialist; newest appointment; ambitious and eager to prove value.
+- **[[Pisenten]]** — water specialist; practical, patient, and relentless in analysis.
+- **[[Dramaynen]]** — earth specialist; a sage devoted to **Ulaa**; favors permanence, warding, and stability.
 
 **Group temperament:** loyal to Belvor, competent, and largely **socially distant**. They prefer solutions over conversation.
 
