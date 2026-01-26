@@ -27,7 +27,7 @@ Location:
 > --- | --- |
 > Alignment | `=this.Alignment` |
 > Class | `=this.Class` |
-> Role | =`this.Character-Role`
+> Role | `=this.Character-Role` |
 
 # `=this.file.name`
 ## Profile
@@ -40,4 +40,4 @@ Location:
 > columns: 1
 > ```
 
-
+## DM Notes
