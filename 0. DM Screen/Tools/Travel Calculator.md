@@ -1,0 +1,21 @@
+---
+tags:
+  - TravelCalculator
+MilesPerHour: 3
+SpeedMultiplier: 1
+TemperatureMaxTravelHours: 8
+HoursPerDay: 8
+TravelDistance: 40
+MinutesInDay: "1440"
+---
+
+
+| Travel Calculator                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Party Speed:** `INPUT[inlineSelect(option(2, 'Slow (2mph)'), option(3, 'Normal (3mph)'), option(4, 'Fast (4mph)')):MilesPerHour]`                                                                                                                                                                                                                                            |
+| **Terrain Type:** `INPUT[inlineSelect(option(1, Normal Terrain), option(0.5, Difficult Terrain)):SpeedMultiplier]`                                                                                                                                                                                                                                                                                                                                         |                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| **Miles To Travel:**  `INPUT[number:TravelDistance]`                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| **Distance Travelled Per Day:** `VIEW[round({MilesPerHour}*{HoursPerDay},1)]`  miles                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| **Days Travel 🕓:** `VIEW[round({TravelDistance} / (({MilesPerHour}*{HoursPerDay})*{SpeedMultiplier}),1)]`                                                                                                                                                                                                                                                                                                                                                                                              |
+| **Minutes Travel 🕓:** `VIEW[round({TravelDistance} / ({MilesPerHour} * {SpeedMultiplier}) * 60, 1)]`                                                                                                                                                                                                                                                                                                                                                                                                   |
+
