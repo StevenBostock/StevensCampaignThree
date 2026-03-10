@@ -2,14 +2,14 @@
 tags:
   - Quest
 aliases:
-whichParty:
+whichParty: party1
 linkedAdventure: The Scaffold at Dawn
 completed: false
 summary:
 ---
 
 > [!grid | col-3 ]
-> **Assigned Party:** `VIEW[{whichPart}][link]`
+> **Assigned Party:** `VIEW[{whichParty}][link]`
 >
 > **Linked Adventure:** `VIEW[{linkedAdventure}][link]`
 >
@@ -17,7 +17,7 @@ summary:
 
 ## Overview
 ### Summary
-<font color="#7f7f7f">What is the core idea of the quest? Briefly describe the situation, who’s involved, and what the players are expected to do. Keep it to a few sentences.</font>
+<font color="#7f7f7f">At dawn in **[[Chendl]]**, the PCs arrive in the execution square to witness a public hanging/beheading of someone they all knew—accused of conspiring with **[[Iuz]]**. The condemned tries to get out a final truth (a name, a warning, a clue), while a hidden handler in the crowd moves to **silence** them and steer the crowd toward panic and vengeance. The players are expected to **react in the moment**—spot the manipulation, protect or recover a crucial scrap of evidence (token/letter/phrase), and decide to **stand together** despite the city’s “official” narrative.</font>
 
 ### Storyline
 <font color="#7f7f7f">How do you roughly plan the sequence of events beginning to end? Outline the key events, twists, and progression the players will experience.</font>
